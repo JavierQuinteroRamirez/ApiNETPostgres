@@ -1,0 +1,12 @@
+C:\Quram\Desarrollos\Api Test\App\bin\Debug\App.exe.config
+C:\Quram\Desarrollos\Api Test\App\bin\Debug\App.exe
+C:\Quram\Desarrollos\Api Test\App\bin\Debug\App.pdb
+C:\Quram\Desarrollos\Api Test\App\bin\Debug\Newtonsoft.Json.dll
+C:\Quram\Desarrollos\Api Test\App\bin\Debug\Newtonsoft.Json.xml
+C:\Quram\Desarrollos\Api Test\App\obj\Debug\App.frm_App.resources
+C:\Quram\Desarrollos\Api Test\App\obj\Debug\App.Properties.Resources.resources
+C:\Quram\Desarrollos\Api Test\App\obj\Debug\App.csproj.GenerateResource.cache
+C:\Quram\Desarrollos\Api Test\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+C:\Quram\Desarrollos\Api Test\App\obj\Debug\App.csproj.CopyComplete
+C:\Quram\Desarrollos\Api Test\App\obj\Debug\App.exe
+C:\Quram\Desarrollos\Api Test\App\obj\Debug\App.pdb
