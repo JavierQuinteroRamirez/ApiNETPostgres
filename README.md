@@ -9,7 +9,7 @@ Requerimientos:
     - Npgsql.EntityFrameworkCore.PostgreSQL, 
     - Microsoft.EntityFrameworkCore,
 
-La aplicación permite el registro de usuarios.
+La aplicación permite el registro de usuarios con su lugar de ubicación.
 
 La carpeta <<Scripts Creacion, Schema y Registros de BD>> contiene 3 scripts para crear la base de datos, agregar todo el schema e insertar los parámetros correspondientes a los países, estados o departamentos y ciudades. 
 
